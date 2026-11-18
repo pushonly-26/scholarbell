@@ -8,7 +8,7 @@
 ## 주요 화면
 | 조건 설정 | 맞춤 공고 대시보드 | 새 공고 알림 |
 |---|---|---|
-| ![](screenshots/1_조건설정_기본정보.png) | ![](screenshots/5_맞춤공고_대시보드.png) | ![](screenshots/6_새공고_알림도착.png) |
+| ![](screenshots/1_onboarding_basic.png) | ![](screenshots/5_dashboard.png) | ![](screenshots/6_new_alert.png) |
 
 ## 기능
 - 3단계 조건 설정 (학적 → 성적·소득 → 지역·추가조건)
